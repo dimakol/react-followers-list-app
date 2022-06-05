@@ -1,0 +1,32 @@
+Followers List
+
+Your assignment is to create a React + Redux + Typescript + Single Page Application, that has the following flow:
+
+    1. Ask the user to enter a name of a Github account.
+
+    2. Display the list of 30 of that account’s followers. (https://api.github.com/users/${name)/followers)
+
+        a. If the list is longer than 30, implement a way to view the rest of the list.
+
+    3. Allow the user to sort the current list by their Login Name and ID.
+
+The assignment will be tested by the following criteria:
+
+    1. General code quality.
+
+    2. Project structure and architecture.
+
+    3. User experience.
+
+Use any design framework of your choice (tailwindcss, material-ui, chakra-ui)
+
+The project should be handed in as a git repo, and we should be able to install and run it locally on our machines.
+
+Extra points if you deploy it to some static site host (Github pages, Netlify, Vercel, Heroku...)
+
+Please make sure to provide installation instructions and other notes of import in the ‘README’ file.
+
+The time frame for this assignment is until Sunday, June 5th.
+We are here for any question or issue that might arise.
+
+Good luck!
