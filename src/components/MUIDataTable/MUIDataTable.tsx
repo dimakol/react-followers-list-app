@@ -9,7 +9,7 @@ const columns: GridColDef[] = [
   {
     field: "login",
     headerName: "User",
-    width: 300,
+    width: 200,
     renderCell: (params) => (
       <a href={params.row.html_url} target="_blank" rel="noopener noreferrer">
         {params.row.login}
