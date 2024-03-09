@@ -1,4 +1,4 @@
-## Followers List
+# Followers List App
 
 A web application that display a list of Github account followers.
 
@@ -23,14 +23,22 @@ A web application that display a list of Github account followers.
 
 ## Installation
 
-**Running in development environment**
+**Running Locally**
 
 git, npm and node softwares should be installed before moving on
 
-- git clone https://github.com/dimakol/Followers-List.git
-- cd Followers-List/
-- npm install
-- npm run dev
+```bash
+git clone https://github.com/dimakol/react-followers-list-app.git
+cd react-followers-list-app
+npm install
+npm run dev
+```
+
+**Building for production**
+
+```bash
+npm run build
+```
 
 ## API Reference
 
@@ -39,8 +47,10 @@ git, npm and node softwares should be installed before moving on
 
 ## Deployed to Github pages
 
-https://dimakol.github.io/followers-list/
+https://dimakol.github.io/react-followers-list-app/
 
 ## License
 
-MIT © Dima Kolyas
+(The MIT License)
+
+Copyright © 2022 Dima Kolyas
