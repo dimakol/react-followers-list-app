@@ -1,8 +1,8 @@
 {
-  "name": "followers-list",
+  "name": "react-followers-list-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dimakol.github.io/followers-list/",
+  "homepage": "https://dimakol.github.io/react-followers-list-app/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
